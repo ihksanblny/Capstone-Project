@@ -34,7 +34,7 @@
 ## 🛠️ Arsitektur dan Teknologi  
 
 ### 📐 **Arsitektur Aplikasi**  
-- **Frontend:** Flutter untuk pengembangan aplikasi mobile.  
+- **Frontend:** Kotlin untuk pengembangan aplikasi mobile.  
 - **Backend:** Node.js API dengan dukungan Google Cloud Functions.  
 - **Database:** Firestore untuk penyimpanan data real-time.  
 
@@ -42,8 +42,8 @@
 | Learning Path       | Tools/Frameworks                                   |  
 |---------------------|---------------------------------------------------|  
 | **Machine Learning** | TensorFlow, Python, Jupyter Notebook               |  
-| **Cloud Computing** | Google Cloud Platform (Cloud Run, Firestore)      |  
-| **Mobile Development** | Flutter, Dart                                   |  
+| **Cloud Computing** | Google Cloud Platform (Cloud Run, App Engine, Firbase, Cloud Storage)      |  
+| **Mobile Development** | Kotlin                                   |  
 
 ---
 
