@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HI Student\'s APP</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Belajar berbagai bidang IT, mulai dari Android, iOS, Machine Learning, Cloud, hingga Front-End dan Back-End, semua ada di sini!</string>
+    <string name="title_welcome_page">Selamat Datang di HI Student\'s APP!</string>
+    <string name="title_signup_page">Daftar dan mulai perjalanan belajarmu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silakan masukkan data untuk login</string>
+    <string name="title_login_page">Siap untuk meningkatkan skill?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat belajar di HI Student\'s APP.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+</resources>
